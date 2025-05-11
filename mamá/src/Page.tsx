@@ -9,7 +9,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { type ListMultimedia } from "./types.d";
+import type { ListMultimedia } from "./types.d";
 import mama1 from "./assets/mama1.jpg";
 import mama2 from "./assets/mama2.jpeg";
 import mama3 from "./assets/mama3.jpg";

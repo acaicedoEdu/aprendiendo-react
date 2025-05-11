@@ -1,0 +1,8 @@
+@layer base {
+    * {
+      box-sizing: content-box;
+      margin: revert;
+      padding: revert;
+    }
+}
+  
